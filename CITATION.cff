@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this edition when using the paper."
+type: generic
+title: "The value of a reversible change"
+version: "v0.1.0"
+authors:
+  - family-names: "Weis"
+    given-names: "Aaron Michael"
+    affiliation: "Oneiron Holdings LLC"
+    orcid: "https://orcid.org/0009-0002-1906-148X"
+license: "CC-BY-4.0"

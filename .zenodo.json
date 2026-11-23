@@ -1,0 +1,17 @@
+{
+  "title": "The value of a reversible change",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "version": "v0.1.0",
+  "creators": [
+    {
+      "name": "Weis, Aaron Michael",
+      "orcid": "0009-0002-1906-148X",
+      "affiliation": "Oneiron Holdings LLC"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "access_right": "open",
+  "description": "<p>A method for measuring the complete human effort for an accepted, reversible change, with an illustrative cost calculation and a proposed matched-task study.</p><p>Research by Aaron Michael Weis. The original concept work and the editing of this edition used AI assistance. The paper reports no measured field outcome.</p>"
+}
